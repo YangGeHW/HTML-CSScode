@@ -2,8 +2,14 @@
   color: red;
   width: 1.81333333rem;
 }
+.father:hover {
+  color: black;
+}
 .father .son {
   background-color: pink;
+}
+.father .son:hover {
+  color: green;
 }
 /* 
 块注释
