@@ -1,3 +1,9 @@
+a {
+  background-color: #fff;
+}
+a b {
+  background-color: aqua;
+}
 .father {
   color: red;
   width: 1.81333333rem;
@@ -10,12 +16,6 @@
 }
 .father .son:hover {
   color: green;
-}
-a {
-  background-color: #fff;
-}
-a b {
-  background-color: aqua;
 }
 /* 
 块注释
