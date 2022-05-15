@@ -1,0 +1,23 @@
+a {
+  background-color: #fff;
+}
+a b {
+  background-color: aqua;
+}
+.father {
+  color: red;
+  width: 1.81333333rem;
+}
+.father:hover {
+  color: black;
+}
+.father .son {
+  background-color: pink;
+}
+.father .son:hover {
+  color: green;
+  width: 100px;
+}
+/* 
+块注释
+*/
